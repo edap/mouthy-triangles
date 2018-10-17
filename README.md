@@ -21,6 +21,7 @@ Scenes, levels, background and foreground, lights, atmosphere.
 References:
 
 [Scott Snibbe, Boundary Functions, 1998](https://www.snibbe.com/digital-art#/projects/interactive/boundaryfunctions/)
+
 [Particular](http://funken.cl/particular/)
 
 Addons:
@@ -55,12 +56,19 @@ Addons:
 
 Easing functions and other tools to handle movements.
 
+Exercise: 
+
+Find new references for which you think the movement of the subjects play a relevant role.
+
+Make different sketches where your visual elements are in: a) hurry b) scared c) run away as soon as something happe d)
+
+
 
 - week 2
 
 - week 3
 
-Animated GIFS, [Golan Levin Lecture on loops](https://github.com/golanlevin/lectures/tree/master/lecture_loops)
+Animated GIFS, [Golan Levin Lecture on loops](https://github.com/golanlevin/lectures/tree/master/lecture_loops), [what is a gif](http://giflib.sourceforge.net/whatsinagif/bits_and_bytes.html)
 
 
 
