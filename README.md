@@ -15,7 +15,7 @@ The course gives will take place every Friday at 14.00 in room 112. It gives 5CP
 
 ## Topics
 
-- Composition.
+### Composition.
 Scenes, levels, background and foreground, lights, atmosphere.
 
 References:
@@ -29,17 +29,17 @@ Addons:
 
 
 
-- Actors. 
+### Actors. 
 Who does what? where? when? for how long?
 
-- Time.
+### Time.
 Beginning, end, something in between. Iterate, make loops.
 
 Addons:
 
 [ofxAnimationPrimitives](https://github.com/edap/ofxAnimationPrimitives)
 
-- Movement.
+### Movement.
 Move things accordingly to the character.
 
 References:
@@ -52,15 +52,15 @@ Addons:
 ## Lessons
 
 - week01
-Easing functions and other tools for 
+
+Easing functions and other tools to handle movements.
+
 
 - week 2
 
 - week 3
 
-Animated GIFS
+Animated GIFS, [Golan Levin Lecture on loops](https://github.com/golanlevin/lectures/tree/master/lecture_loops)
 
-Reference:
 
-[Golan Levin Lecture on loops](https://github.com/golanlevin/lectures/tree/master/lecture_loops)
 
