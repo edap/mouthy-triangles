@@ -58,7 +58,7 @@ Easing functions and other tools to handle movements.
 
 Exercise: 
 
-Find new references for which you think the movement of the subjects play a relevant role.
+Find new references for which you think the movement of the subjects plays a relevant role.
 
 Make different sketches where your visual elements are in: a) hurry b) scared c) run away as soon as something happe d)
 
