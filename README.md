@@ -11,7 +11,7 @@ You are going to make your own theater using only the text editor. You will set 
 The main goal of this course is to tell a story to a distracted audience.
 
 ## Organization
-The course gives will take place every Friday at 14.00 in room 112. It gives 5CP. To obtain the credit points you have to take part at at least 80% of the lessons and to submit intermediate project when required.
+The course will take place every Friday at 14.00 in room 112. It gives 5CP. To obtain the credit points you have to take part at at least 80% of the lessons and to submit intermediate project when required.
 
 ## Topics
 
